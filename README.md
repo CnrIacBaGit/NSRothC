@@ -1,11 +1,8 @@
 NSRothC - NonStandard RothC models in Matlab
 
 Angela Martiradonna
-
-Department of Mathematics, University of Bari, Italy
-
-Institute for Applied Mathematics (IAC), CNR, Bari, Italy
-
+Department of Mathematics, University of Bari, Italy\\
+Institute for Applied Mathematics (IAC), CNR, Bari, Italy\\
 angela.martiradonna@uniba.it
 
 
