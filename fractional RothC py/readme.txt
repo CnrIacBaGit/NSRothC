@@ -2,7 +2,7 @@ fractional NSRothC – fractional NonStandard RothC model in Pyton
 
 Vsevolod Bohaienko
 Institute for Applied Mathematics (IAC), CNR, Bari, Italy. 
-Mail: sevab@ukr.net
+Mail: v.bohaienko@ba.iac.cnr.it
 
 Fractional NSRothC is the python code for implementig the fractional nonstandard version of the RothC model for simaluting the dynamics of soil organic carbon (SOC) contained in the organic matter.
 
