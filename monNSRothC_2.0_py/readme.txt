@@ -11,7 +11,7 @@ Five compartments of the soil are considered: DPM (decomposable plant material),
 
 The implementation of this code was carried out within the framework of :
 •	the H2020 project “Earth Observation Training in Science and Technology at the Space Research Centre of the Polish Academy of Sciences’— ’EOTiST”’, funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 952111.
-•	the project “Modelli differenziali per la salvaguardia della biodiversit`a minacciata dalle specie invasive nelle aree protette. Utilizzo di dati satellitari per l’analisi di scenario e il controllo ottimo nel Parco Nazionale dell’Alta Murgia” funded by “Research for Innovation” (REFIN) progamme n. 0C46E06B- Regione Puglia, Italy.
+•	the project "CIR01_00028 LifeWatchPLUS- LifeWatch, infrastructure for research on biodiversity and ecosystems Project to strengthen infrastructure - Strengthening human capital" with research topic: "Implementation in virtual research environments of modelling tools to predict and prevent the loss of biodiversity and ecosystem services"  funded by “National Research Council” (CNR). 
 
 The routine can be used under the conditions of CC-BY-NC 2.0.
 
