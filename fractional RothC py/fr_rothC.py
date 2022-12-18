@@ -52,8 +52,8 @@ def scheme2_one_step(t,tau,j,q,_in,out,idx,alpha,beta,rho,k,b,fr_corr_type,t0,ol
 	if month>=len(b[0,:]):
 		month=len(b[0,:])-1
 	for i in range(4):
-		vb1[i]=b[i,month]
-		vb2[i]=b[i,month_tau]
+		vb1[i]=b[i,month]/corr_factor(t+t0,q,fr_corr_type)
+		vb2[i]=b[i,month_tau]/corr_factor(t+t0,q,fr_corr_type)
 		vb1[i]=0.5*(vb1[i]+vb2[i])
 	# Mc(t_j)
 	mmult(t,_in,vb2,k,alpha,beta,rho,fr_corr_type,q,t0)
